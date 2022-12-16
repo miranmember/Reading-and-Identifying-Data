@@ -1,2 +1,2 @@
 # Reading-and-Identifying-Data
-Shift through the population growth data, and answer some key questions.
+The code defines three dictionaries: "data_by_region", "data_by_country", and "answers". It also has several functions to load and manipulate data from a CSV file, including "load_dictionaries" and "write_answers". The "load_dictionaries" function reads data from the CSV file and stores it in the two dictionaries "data_by_region" and "data_by_country". The "write_answers" function calls other functions that analyze the data and store the results in the "answers" list. The results can then be written to a text file.
